@@ -9,7 +9,7 @@ a:visited {
 }
 
 #top {
-  background-image: url("/Users/emma/Documents/test/broadway/resources/images/the-flatiron-building.png");
+  background-image: url("resources/images/the-flatiron-building.png");
   background-size: contain;
   background-repeat: no-repeat;
  }
@@ -31,7 +31,6 @@ h2 {
 h3 {font-size:23px;
 }
 
-}
 p {
   font-size: 14px;
 }
@@ -44,7 +43,7 @@ p {
 }
 
 #middle {
-  background-image: url("/Users/emma/Documents/test/broadway/resources/images/the-flatiron-building.png");
+  background-image: url("resources/images/the-flatiron-building.png");
   color: white;
   background-size: cover;
 }
