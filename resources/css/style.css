@@ -1,4 +1,57 @@
 html {
   background-color: white;
-  font-family: Helvetica
+  font-family: Helvetica;
+  text-align: center;
+  }
+
+a:visited {
+  color: white;
+}
+
+#top {
+  background-image: url("/Users/emma/Documents/test/broadway/resources/images/the-flatiron-building.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+ }
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h2,
+h3 {
+  font-weight: bold
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {font-size:23px;
+}
+
+}
+p {
+  font-size: 14px;
+}
+
+#top_menu {
+  font-size: 18px;
+  color: white;
+  text-decoration: underline;
+  line-height: 0px;
+}
+
+#middle {
+  background-image: url("/Users/emma/Documents/test/broadway/resources/images/the-flatiron-building.png");
+  color: white;
+  background-size: cover;
+}
+
+#footer {
+  font-size: 13px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
 }
